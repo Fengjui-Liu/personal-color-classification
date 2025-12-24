@@ -125,7 +125,7 @@ K-Means 基於歐氏距離分群，但：
 
 ```bash
 # 在 Google Colab 開啟
-jupyter notebook notebooks/analysis.ipynb
+https://colab.research.google.com/drive/1qxTDI_gRm1W5jryZT_bIRo1ooijdzpka?usp=sharing
 ```
 
 ---
