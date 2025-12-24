@@ -129,6 +129,9 @@ https://colab.research.google.com/drive/1qxTDI_gRm1W5jryZT_bIRo1ooijdzpka?usp=sh
 ```
 
 ---
+## 專案簡報
+
+[查看完整簡報 (PDF)](presentation.pdf)
 
 
 ---
